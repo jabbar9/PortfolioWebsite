@@ -1,4 +1,4 @@
-import{r as De,g as vM,j as Qn}from"./index-QIKnhwrQ.js";/**
+import{r as De,g as vM,j as Qn}from"./index-DC1ySpQG.js";/**
  * @license
  * Copyright 2010-2024 Three.js Authors
  * SPDX-License-Identifier: MIT
