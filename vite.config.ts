@@ -14,16 +14,17 @@ export default defineConfig({
     runtimeErrorOverlay(),
     glsl(), // GLSL shader support
   ],
+  root: path.resolve(__dirname, "client"), // 👈 this tells Vite your index.html lives inside /client
+  base: "/PortfolioWebsite/",              // 👈 required for GitHub Pages (must match repo name)
+  build: {
+    outDir: path.resolve(__dirname, "dist"), // 👈 final build goes to /dist
+    emptyOutDir: true,
+  },
   resolve: {
     alias: {
-      "@": path.resolve(__dirname, "src"),         // ✅ if your src/ folder is now in root
+      "@": path.resolve(__dirname, "client", "src"),
       "@shared": path.resolve(__dirname, "shared"),
     },
   },
-  root: __dirname, // ✅ Set root to the project root (where index.html now lives)
-  build: {
-    outDir: path.resolve(__dirname, "dist"),       // ✅ Output to dist/
-    emptyOutDir: true,
-  },
-  assetsInclude: ["**/*.gltf", "**/*.glb", "**/*.mp3", "**/*.ogg", "**/*.wav"], // large asset support
+  assetsInclude: ["**/*.gltf", "**/*.glb", "**/*.mp3", "**/*.ogg", "**/*.wav"],
 });
