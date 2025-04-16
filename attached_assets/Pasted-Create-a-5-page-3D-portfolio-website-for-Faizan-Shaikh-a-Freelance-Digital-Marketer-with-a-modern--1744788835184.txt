@@ -1,0 +1,110 @@
+Create a 5-page 3D portfolio website for Faizan Shaikh, a Freelance Digital Marketer, with a modern and attractive layout, smooth navigation, and clean CSS. This site should include realistic 3D effects/models, responsive design, and proper routing between pages. Follow the structure and content below:
+
+🌐 General Requirements
+Website Title/Header: "Faizan Shaikh"
+
+Replace main name section with "Turning Clicks Into Customers" as the main bold line on the homepage.
+
+Subtitle: "Freelance Digital Marketer | SEO, Social Media & Paid Ads Expert"
+
+Make sure the navigation bar links to all five pages properly and is sticky with a modern look.
+
+🧭 Pages Structure (5 pages total):
+1. Home Page
+Welcome message with engaging 3D animation/hero section.
+
+Include two CTA buttons:
+
+“View My Work” → links to Work page
+
+“Connect With Me” → links to Contact page
+
+Fill any blank/white spaces below buttons with relevant digital marketing elements (like graphs, icons, or animation).
+
+Replace the existing 3D model with a better modern one (digital marketing themed).
+
+2. About Page
+Title: “About Me”
+
+Add a personal image (placeholder) for Faizan.
+
+Use this content:
+
+pgsql
+Copy
+Edit
+Welcome to F & A Digitals — where data meets creativity, and strategy sparks growth.
+
+We’re a full-stack digital marketing powerhouse built for brands that dare to dream big. In a world driven by clicks, scrolls, and impressions, we craft campaigns that connect, convert, and create lasting impact.
+
+Our team blends deep industry insight with cutting-edge tools to drive real results — not just vanity metrics. From search engines to social feeds, we engineer every touchpoint of your digital journey to deliver measurable success.
+
+Whether you're launching, scaling, or dominating your niche — we don't just market your brand. We make it unforgettable.
+
+Your story deserves more than likes. It deserves loyalty, leads, and lasting growth. Let’s make it happen.
+Add an image/logo of F & A Digitals below or next to the paragraph.
+
+3. Work Page (Split into 2 Sections)
+Show two sections with portfolio case studies and screenshots.
+
+Add 2 images (placeholders) showcasing Faizan’s work.
+
+Each image should be clickable for a detailed view or lightbox effect.
+
+Highlight services: SEO, Paid Ads, Social Media Management.
+
+4. Testimonials Page
+Add a clean testimonial carousel or card layout.
+
+Use the following reviews:
+
+mathematica
+Copy
+Edit
+"Working with [Company Name] has been a game-changer for our brand. Our online presence has skyrocketed, and we’ve seen a 60% increase in leads within just three months!"
+— Sarah D., Marketing Manager, TechSpark Solutions
+
+"Their team is professional, responsive, and results-driven. They didn’t just run campaigns—they built strategies that worked. Highly recommend!"
+— Ahmed K., Co-Founder, UrbanStyles
+
+"From SEO to social media, [Company Name] helped us grow our digital footprint with real, measurable results. We finally feel visible online."
+— Priya M., Owner, Bliss & Bloom Boutique
+
+"We've worked with multiple agencies before, but none matched the expertise and dedication of [Company Name]. They truly understand what our business needs."
+— James T., CEO, FitCore
+
+"They took the time to understand our brand voice and delivered content that truly connected with our audience. Engagement rates are at an all-time high!"
+— Lina R., Marketing Lead, GreenHabits
+Style with great typography, padding, and spacing.
+
+5. Contact Page
+Title: Connect With Me
+
+Include a professional contact form with the following fields:
+
+Name
+
+Email
+
+Message
+
+Ensure spacing below inputs is proper (add margin-bottom).
+
+Use a modern CSS layout (rounded corners, shadows, spacing).
+
+Set form to send messages directly to: faizanshaikh0078@gmail.com
+
+Optionally include links to social media or vendor platforms.
+
+🎨 Design & Visuals
+Use smooth transitions and animations across sections.
+
+Consistent fonts, color palette (modern digital style), and iconography.
+
+Replace any generic 3D effect with a more professional 3D element (e.g., spinning globe, marketing dashboard, laptop with charts).
+
+All content must be responsive, mobile-friendly, and cleanly styled with CSS.
+
+Add hover effects, buttons, and section spacing for a premium feel.
+
+Goal: A full-fledged professional portfolio for a freelance digital marketer, showcasing work, testimonials, and clear ways to connect.
