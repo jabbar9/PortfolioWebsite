@@ -83,6 +83,7 @@
     "react-resizable-panels": "^2.1.4",
     "react-router-dom": "^6.30.0",
     "react-syntax-highlighter": "^15.5.0",
+    "react-three": "^0.9.7",
     "react-use-gesture": "^9.1.3",
     "react-useanimations": "^2.10.0",
     "recharts": "^2.13.0",
